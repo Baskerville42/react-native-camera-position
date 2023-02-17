@@ -1,0 +1,24 @@
+{
+  "name": "react-native-camera-position",
+  "version": "0.0.1",
+  "description": "Allow to predicate where is your camera",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baskerville42/react-native-camera-position"
+  },
+  "keywords": [
+    "react-native",
+    "camera",
+    "troll"
+  ],
+  "author": "Alexander Tartmin <alexander@tartmin.name>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Baskerville42/react-native-camera-position/issues"
+  },
+  "homepage": "https://github.com/Baskerville42/react-native-camera-position#readme",
+  "peerDependencies": {
+    "react-native": "0.68.1"
+  }
+}
